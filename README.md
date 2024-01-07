@@ -1,16 +1,5 @@
 ## TG搜索引擎索引机器人
 
-### 目录说明
-
--- admin    后台管理程序
-
--- bot      机器人端webhook程序
-
--- database 数据库文件
-
--- extend   php加密扩展
-
-
 ### 搭建所需要环境
 php   7.4
 
