@@ -1,0 +1,3 @@
+---------------------------------------------------------------
+[ 2023-12-28T11:13:47+08:00 ] 143.110.212.122 POST admin.hyperindex.tk/api/invite/index.html
+[ error ] [8]Trying to access array offset on value of type null
