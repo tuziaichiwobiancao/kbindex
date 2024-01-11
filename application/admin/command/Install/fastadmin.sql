@@ -792,7 +792,7 @@ CREATE TABLE `fa_keyword`  (
   `keyword_id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `title` varchar(255) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL COMMENT '关键词',
   `money` float(11, 2) NOT NULL DEFAULT 0.00 COMMENT '购买金额',
-  `sea` int(11) NOT NULL COMMENT '被搜索次数',
+  `sea` int(11) NOT NULL DEFAULT '0' COMMENT '被搜索次数',
   `addtime` varchar(20) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL COMMENT '添加时间',
   PRIMARY KEY (`keyword_id`) USING BTREE,
   UNIQUE INDEX `name`(`title`) USING BTREE
