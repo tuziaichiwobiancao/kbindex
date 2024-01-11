@@ -9,6 +9,8 @@ mysql 5.7
 
 购买联系客服TG:https://t.me/buzhiguiqi
 
+自助购买授权:https://faka.oo-uu.cc
+
 ### 最新版更新
 
 1、新增搜索指数
@@ -18,6 +20,8 @@ mysql 5.7
 3、新增授权,深度加密,深度授权,网络授权，防止倒卖
 
 4、相对这个骗子https://github.com/mmmrp/telegram-sousuo新增搜索指数，可担保可先搭建再付款
+
+5、修复关键词添加报错问题
 
 ### 搭建教程
 
