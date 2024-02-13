@@ -62,7 +62,7 @@ mysql 5.7
 综上所述将不再提供技术支持以及取消授权
 
 ### 演示信息
-后台地址:http://admin.hyperindex.tk/wocaole.php
+后台地址:http://admin.kime.eu.org/wocaole.php
 
 用户名:admin
 
