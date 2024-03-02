@@ -1,6 +1,13 @@
 ## TG搜索引擎索引机器人
 
 ### 搭建所需要环境
+
+服务器硬要求4核8G
+
+elastic 8
+
+redis
+
 php   7.4
 
 nginx 1.2
@@ -8,8 +15,6 @@ nginx 1.2
 mysql 5.7
 
 购买联系客服TG:https://t.me/buzhiguiqi
-
-自助购买授权:https://faka.oo-uu.cc
 
 ### 三版本索引演示
 
