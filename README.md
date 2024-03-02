@@ -4,6 +4,10 @@
 
 服务器硬要求4核8G
 
+.net 8
+
+JDK 9
+
 elastic 8
 
 redis
