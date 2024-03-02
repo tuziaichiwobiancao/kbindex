@@ -11,6 +11,26 @@ mysql 5.7
 
 自助购买授权:https://faka.oo-uu.cc
 
+### 三版本索引演示
+
+演示群组:https://t.me/threetestdemo
+
+演示机器人:https://t.me/threeindexBot
+
+演示后台:https://elastic.kime.eu.org/wocaole.php  用户名:admin    密码:Qwe12345.
+
+### 三版索引介绍
+
+github地址:https://github.com/tuziaichiwobiancao/threeIndex
+
+### 三版索引搭建教程
+
+搭建教程网址:https://www.oo-uu.cc/document/269.html
+
+### 三版索引更新发布
+
+发布网址:https://www.oo-uu.cc/document/257.html
+
 ### 2024.2.26 第三版索引已完成开发
 
 1、2版本系统将免费开源取消授权
@@ -80,6 +100,9 @@ mysql 5.7
 综上所述将不再提供技术支持以及取消授权
 
 ### 演示信息
+
+二版本索引演示已经关闭了
+
 后台地址:http://admin.kime.eu.org/wocaole.php
 
 用户名:admin
