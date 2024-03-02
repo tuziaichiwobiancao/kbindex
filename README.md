@@ -35,7 +35,7 @@ github地址:https://github.com/tuziaichiwobiancao/threeIndex
 
 1、2版本索引作者不再售卖,授权码 1234567890123 用户名随意填写
 
-2、2版本将不在更新维护,下载地址:https://www.oo-uu.cc/circle/263.html 附带了授权码,自行搭建使用,遇到问题请自行到论坛寻找答案
+2、2版本将不在更新维护,最新版本下载地址:https://qf6y-my.sharepoint.com/:u:/g/personal/sulin_qf6y_onmicrosoft_com/ETVLUhWxsQxLuXeo1QTHEZQBTnWF2z1DDRfeQuCKxlfKKg?e=T8n35e
 
 3、2版本就是需要部署两个域名的索引都是2版本，很多人在倒卖2版本,请看清楚后再购买,买完后遇到问题无法解决不要找作者,作者会直接拉黑你,新版也不会卖给你,拒绝所有倒卖的,以及购买盗版的
 
