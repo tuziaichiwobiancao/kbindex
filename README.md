@@ -118,9 +118,9 @@ github地址:https://github.com/tuziaichiwobiancao/threeIndex
 
 密码:Qwe123123
 
-演示机器人:https://t.me/thisindexBot
+演示机器人:    演示机器人账号已被盗
 
-演示群组:https://t.me/thisindexd
+演示群组:      演示机器人账号已被盗
 
 ### 骗子曝光
 
